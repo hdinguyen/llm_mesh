@@ -1,0 +1,9 @@
+[project]
+name = "llm-mesh"
+version = "0.1.0"
+description = "This project using acp and dspy to easily create new Agent and connecting like plug and play"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "acp-sdk>=0.13.0",
+]
