@@ -1,0 +1,25 @@
+[project]
+name = "chunking"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "acp-sdk>=1.0.0",
+    "black>=25.1.0",
+    "dataclasses-json>=0.6.7",
+    "dspy>=2.6.27",
+    "isort>=6.0.1",
+    "langchain-text-splitters>=0.3.8",
+    "loguru>=0.7.3",
+    "mcp>=1.11.0",
+    "mypy>=1.16.1",
+    "nltk>=3.9.1",
+    "pydantic>=2.11.7",
+    "pytest>=8.4.1",
+    "pytest-cov>=6.2.1",
+    "semchunk>=3.2.2",
+    "spacy>=3.8.7",
+    "tiktoken>=0.9.0",
+    "typing-extensions>=4.14.1",
+]
